@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "me.corebyte.overworldanchors.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"RespawnAnchorBlockMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
